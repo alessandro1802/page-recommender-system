@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/ISO_5428
+ISO 5428:1984, Greek alphabet coded character set for bibliographic information interchange, is an ISO standard for an 8-bit character encoding for the modern Greek language. It contains a set of 73 graphic characters and is available through UNIMARC.[1] In practice it is now superseded by Unicode.

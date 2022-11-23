@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Texture_memory
+Texture memory is a type of digital storage that makes texture data readily available to video rendering processors (also known as GPUs), typically 3D graphics hardware. It is most often (but not always) implemented as specialized RAM (TRAM) that is designed for rapid reading and writing, enabling the graphics hardware increased performance in rendering 3D imagery. Larger amounts of texture memory allow for more detailed scenes.  This computer hardware article is a stub. You can help Wikipedia by expanding it.
